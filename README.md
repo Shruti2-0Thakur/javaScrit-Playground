@@ -6,7 +6,8 @@ Welcome to the HTML, CSS, and JavaScript Playground! This repository is a space 
 - [📖 Introduction](#introduction)
 - [🛠️ Projects](#projects)
   - [🔢 Project 1: Calculator](#project-1-calculator)
-  - [🔢 Project 2: Rock Paper & Scissors](#project-2-Rock-Paper-&Scissors)
+  - [🔢 Project 2: Rock Paper & Scissors](#project-2-Rock-Paper-and-Scissors)
+  - [🔢 Project 3: Word Scramble Game](#project-3-Word-Scramble-Game)
  
 ## Introduction
 This repository serves as a hands-on learning platform for web development enthusiasts. Whether you are a beginner or looking to sharpen your skills, these mini-projects will provide you with a comprehensive understanding of HTML, CSS, and JavaScript. Each project is designed to be self-contained, allowing you to explore specific concepts in isolation.
@@ -29,7 +30,7 @@ This repository serves as a hands-on learning platform for web development enthu
   </table>
 </details>
 
-### Project 2: Rock Paper & Scissors
+### Project 2: Rock Paper and Scissors
 
 <details>
   <summary>🔍 Preview</summary>
@@ -41,6 +42,21 @@ This repository serves as a hands-on learning platform for web development enthu
       </td>
       <td>
         <img loading="lazy" src="Study Buddy/git_img/RpS.png" alt="Project Preview" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+      </td>
+    </tr>
+  </table>
+
+  ### Project 3: Word Scramble Game
+
+<details>
+  <summary>🔍 Preview</summary>
+  <table>
+    <tr>
+      <td>
+        <p> It features dynamic word scrambling, user input for guesses, and interactive feedback. Key elements include array methods (indexOf, lastIndexOf, splice), animations for smooth transitions, and a vibrant background with floating shapes. The project utilizes CSS for styling and animations, JavaScript for game logic and array manipulations, and HTML for structure. This project offers a playful way to learn and experiment with fundamental web development concepts.</p>
+      </td>
+      <td>
+        <img loading="lazy" src="Study Buddy/git_img/game1.png" alt="Project Preview" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
       </td>
     </tr>
   </table>
