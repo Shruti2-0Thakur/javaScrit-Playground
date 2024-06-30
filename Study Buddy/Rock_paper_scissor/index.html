@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stone Paper Scissors</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Stone Paper Scissors</h1>
+        <div class="mode-selection">
+            <button id="play-with-friend">Play with Friend</button>
+            <button id="play-with-system">Play with System</button>
+        </div>
+        <div class="game-area">
+            <div class="player player1">
+                <h2>Player 1</h2>
+                <div class="choices">
+                    <button class="choice" data-choice="stone">
+                        <img src="stone.png" alt="Stone">
+                    </button>
+                    <button class="choice" data-choice="paper">
+                        <img src="paper.png" alt="Paper">
+                    </button>
+                    <button class="choice" data-choice="scissors">
+                        <img src="scissors.png" alt="Scissors">
+                    </button>
+                </div>
+            </div>
+            <div class="player player2">
+                <h2>Player 2</h2>
+                <div class="choices">
+                    <button class="choice" data-choice="stone">
+                        <img src="stone.png" alt="Stone">
+                    </button>
+                    <button class="choice" data-choice="paper">
+                        <img src="paper.png" alt="Paper">
+                    </button>
+                    <button class="choice" data-choice="scissors">
+                        <img src="scissors.png" alt="Scissors">
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="result">
+            <h2>Result: <span id="result-text"></span></h2>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

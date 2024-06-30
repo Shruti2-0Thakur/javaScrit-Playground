@@ -1,0 +1,87 @@
+/* styles.css */
+body {
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background: rgba(20, 20, 20, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    margin: 0 0 20px;
+    font-size: 2em;
+    color: #f8f5f5;
+}
+
+.mode-selection button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background: #e2e2e2;
+    color: #080808;
+    transition: background 0.3s;
+}
+
+.mode-selection button:hover {
+    background: #555;
+}
+
+.game-area {
+    display: none;
+    margin-top: 20px;
+}
+
+.player {
+    margin: 20px 0;
+}
+
+.player h2 {
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    color: #ffffff;
+}
+
+.choices {
+    display: flex;
+    justify-content: center;
+}
+
+.choice {
+    margin: 0 10px;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    background: none;
+    transition: transform 0.3s;
+}
+
+.choice img {
+    width: 100px;
+    height: 100px;
+}
+
+.choice:hover {
+    transform: scale(1.1);
+}
+
+.result {
+    margin-top: 20px;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #ffffff;
+}
