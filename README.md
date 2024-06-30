@@ -45,6 +45,7 @@ This repository serves as a hands-on learning platform for web development enthu
       </td>
     </tr>
   </table>
+  </details>
 
   ### Project 3: Word Scramble Game
 
@@ -53,10 +54,11 @@ This repository serves as a hands-on learning platform for web development enthu
   <table>
     <tr>
       <td>
-        <p> It features dynamic word scrambling, user input for guesses, and interactive feedback. Key elements include array methods (indexOf, lastIndexOf, splice), animations for smooth transitions, and a vibrant background with floating shapes. The project utilizes CSS for styling and animations, JavaScript for game logic and array manipulations, and HTML for structure. This project offers a playful way to learn and experiment with fundamental web development concepts.</p>
+        <p> The "Word Scramble Game" is an engaging project designed to help users enhance their HTML, CSS, and JavaScript skills. Key elements include array methods (indexOf, lastIndexOf, splice), animations for smooth transitions, and a vibrant background with floating shapes. </p>
       </td>
       <td>
         <img loading="lazy" src="Study Buddy/git_img/game1.png" alt="Project Preview" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
       </td>
     </tr>
   </table>
+  </details>
