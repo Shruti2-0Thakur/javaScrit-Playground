@@ -40,7 +40,7 @@ This repository serves as a hands-on learning platform for web development enthu
             the system's moves, and dynamically update the game's outcome, enhancing our skills in creating interactive, user-friendly web applications.</p>
       </td>
       <td>
-        <img loading="lazy" src="git_img/RpS.png" alt="Project Preview" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+        <img loading="lazy" src="Study Buddy/git_img/RpS.png" alt="Project Preview" style="max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
       </td>
     </tr>
   </table>
